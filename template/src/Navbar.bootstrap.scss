@@ -1,0 +1,13 @@
+// Import navbar styles
+@import '~bootstrap/scss/bootstrap-utilities';
+@import '~bootstrap/scss/navbar';
+.sticky-top {
+  position: sticky;
+  top: 0;
+}
+
+// Import nav menu styles
+@import '~bootstrap/scss/nav';
+
+// Import styles needed for navbar-collapse
+@import '~bootstrap/scss/transitions';

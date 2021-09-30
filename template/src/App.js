@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Navbar from './Navbar';
 import styles from './App.module.scss';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
   const [isWaiting, setIsWaiting] = useState(false);
   return (
     <div className={styles.App}>
+      <Navbar />
       <h1 className="visually-hidden">Test Monkeys</h1>
       <div className="container my-5">
         <div className="row">
