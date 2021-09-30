@@ -1,4 +1,6 @@
 {
   "name": "@thirdender/react-bootstrap-fontawesome",
-  "version": "0.0.1"
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": "github:thirdender/react-bootstrap-fontawesome"
 }
