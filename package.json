@@ -1,6 +1,18 @@
 {
   "name": "@thirdender/react-bootstrap-fontawesome",
-  "license": "MIT",
+  "description": "create-react-app Bootstrap/Font Awesome template",
   "version": "0.0.1",
-  "repository": "github:thirdender/react-bootstrap-fontawesome"
+  "author": "Robert Rothermel <thirdender@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/thirdender/react-bootstrap-fontawesome#readme",
+  "bugs": {
+    "url": "https://github.com/thirdender/react-bootstrap-fontawesome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdender/react-bootstrap-fontawesome.git"
+  },
+  "keywords": [
+    "create-react-app"
+  ]
 }
