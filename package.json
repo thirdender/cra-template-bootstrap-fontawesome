@@ -1,18 +1,20 @@
 {
-  "name": "@thirdender/react-bootstrap-fontawesome",
+  "name": "@thirdender/cra-template-bootstrap-fontawesome",
   "description": "create-react-app Bootstrap/Font Awesome template",
   "version": "0.0.1",
   "author": "Robert Rothermel <thirdender@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/thirdender/react-bootstrap-fontawesome#readme",
+  "homepage": "https://github.com/thirdender/cra-template-bootstrap-fontawesome#readme",
   "bugs": {
-    "url": "https://github.com/thirdender/react-bootstrap-fontawesome/issues"
+    "url": "https://github.com/thirdender/cra-template-bootstrap-fontawesome/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thirdender/react-bootstrap-fontawesome.git"
+    "url": "git+https://github.com/thirdender/cra-template-bootstrap-fontawesome.git"
   },
   "keywords": [
-    "create-react-app"
+    "create-react-app",
+    "cra-template",
+    "bootstrap"
   ]
 }
